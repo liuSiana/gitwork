@@ -2,6 +2,6 @@ this is a test file
 aaaaaaaa
 bbbbbbbb
 cccccccccccccccccccccccc
-ddddddddddddddddddddd
+ddddddddddddddddddddd@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 eeeeeeeeeeeeeeeeeeeee
-ffffffffffffffffffggggggggggggggggg
+ffffffffffffffffffggggggggggggggggg&&&&&&&&&&&&&&&&&&&&&&&&&&&  edit by hot_fix 
