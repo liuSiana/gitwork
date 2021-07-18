@@ -5,3 +5,12 @@ gitclone提交一次信息
 gitwork提交一次信息@@@@@@@@@@@@@@2
 使用ssh进行提交
 再次体验一把ssh提交
+测试tail -f
+测试测试
+测试
+测试
+测试
+test
+测试
+再次测试
+ttttttt
