@@ -1,3 +1,4 @@
 
 appleapple
-edit by master @@@@@@@@@@@@@@@
+edit by master @@@@@@@@@@@@@@dddddd@
+/usr/bin/bash: q: command not found
